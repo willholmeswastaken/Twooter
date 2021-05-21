@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twooter.UserService", "Twooter.UserService\Twooter.UserService.csproj", "{D4584297-5EAB-4814-8F84-28142AB08454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twooter.UrlGenerationService", "Twooter.UrlGenerationService\Twooter.UrlGenerationService.csproj", "{8103DE2C-D119-4C54-8ADE-FB402C516E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twooter.TwootContentService", "Twooter.TwootContentService\Twooter.TwootContentService.csproj", "{1C27D341-2B8F-4310-ACB0-65E12D4C4E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twooter.TwootReactionService", "Twooter.TwootReactionService\Twooter.TwootReactionService.csproj", "{7622BFA1-8B84-4720-838D-52762294760D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twooter.TwootCommentService", "Twooter.TwootCommentService\Twooter.TwootCommentService.csproj", "{694D047E-A70E-4CD8-AAD9-4A1ADDACF03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twooter.TwootRealtimeService", "Twooter.TwootRealtimeService\Twooter.TwootRealtimeService.csproj", "{A60DEC51-7ACC-471E-8345-36701DBA83E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4584297-5EAB-4814-8F84-28142AB08454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4584297-5EAB-4814-8F84-28142AB08454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4584297-5EAB-4814-8F84-28142AB08454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4584297-5EAB-4814-8F84-28142AB08454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8103DE2C-D119-4C54-8ADE-FB402C516E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8103DE2C-D119-4C54-8ADE-FB402C516E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8103DE2C-D119-4C54-8ADE-FB402C516E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8103DE2C-D119-4C54-8ADE-FB402C516E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C27D341-2B8F-4310-ACB0-65E12D4C4E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C27D341-2B8F-4310-ACB0-65E12D4C4E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C27D341-2B8F-4310-ACB0-65E12D4C4E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C27D341-2B8F-4310-ACB0-65E12D4C4E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7622BFA1-8B84-4720-838D-52762294760D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7622BFA1-8B84-4720-838D-52762294760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7622BFA1-8B84-4720-838D-52762294760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7622BFA1-8B84-4720-838D-52762294760D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694D047E-A70E-4CD8-AAD9-4A1ADDACF03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694D047E-A70E-4CD8-AAD9-4A1ADDACF03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694D047E-A70E-4CD8-AAD9-4A1ADDACF03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694D047E-A70E-4CD8-AAD9-4A1ADDACF03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60DEC51-7ACC-471E-8345-36701DBA83E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60DEC51-7ACC-471E-8345-36701DBA83E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60DEC51-7ACC-471E-8345-36701DBA83E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60DEC51-7ACC-471E-8345-36701DBA83E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
