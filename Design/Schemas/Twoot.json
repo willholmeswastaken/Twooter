@@ -1,29 +1,68 @@
-{
-    "id": "0a840669-81de-462a-a4a1-fd5a81affaad",
-    "content": "Hello World! This is my first twoot",
-    "reactions": {
-        "likes": {
-            "count": 1,
-            "items": [
-                {
-                    "id":"0a840669-81de-462a-a4a1-fd5a81affaad",
-                    "likedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
-                    "likedOn": "17:34:00 20/05/2021"
-                }
-            ]
-        }
+[
+    {
+        "id": "0a840669-81de-462a-a4a1-fd5a81affaad",
+        "content": "Hello World! This is my first twoot",
+        "reTwoot": null,
+        "reactions": {
+            "likes": {
+                "count": 1,
+                "items": [
+                    {
+                        "id":"0a840669-81de-462a-a4a1-fd5a81affaad",
+                        "likedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
+                        "likedOn": "17:34:00 20/05/2021"
+                    }
+                ]
+            }
+        },
+        "comments": [
+            {
+                "id": "0a840669-81de-462a-a4a1-fd5a81affaad",
+                "content":"Hello World! This is my first twoot",
+                "postedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
+                "postedOn": "17:34:00 20/05/2021",
+                "deletedOn": null
+            }
+        ],
+        "postedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
+        "postedOn": "17:34:00 20/05/2021",
+        "deletedOn": null,
+        "urlId": "0a840669-81de-462a-a4a1-fd5a81affaad"
     },
-    "comments": [
-        {
-            "id": "0a840669-81de-462a-a4a1-fd5a81affaad",
-            "content":"Hello World! This is my first twoot",
-            "postedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
-            "postedOn": "17:34:00 20/05/2021",
-            "deletedOn": null
-        }
-    ],
-    "postedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
-    "postedOn": "17:34:00 20/05/2021",
-    "deletedOn": null,
-    "urlId": "0a840669-81de-462a-a4a1-fd5a81affaad"
-}
+    {
+        "id": "0a840669-81de-462a-a4a1-fd5a81affaad",
+        "content": "Hello World! This is my second twoot",
+        "reTwoot": {
+            "twootSourceId": "",
+            "twootedBy": {
+                "id": "",
+                "name" : "bob"
+            }
+        },
+        "reactions": {
+            "likes": {
+                "count": 1,
+                "items": [
+                    {
+                        "id":"0a840669-81de-462a-a4a1-fd5a81affaad",
+                        "likedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
+                        "likedOn": "17:34:00 20/05/2021"
+                    }
+                ]
+            }
+        },
+        "comments": [
+            {
+                "id": "0a840669-81de-462a-a4a1-fd5a81affaad",
+                "content":"Hello World! This is my second twoot",
+                "postedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
+                "postedOn": "17:34:00 20/05/2021",
+                "deletedOn": null
+            }
+        ],
+        "postedByUserId": "0a840669-81de-462a-a4a1-fd5a81affaad",
+        "postedOn": "17:34:00 20/05/2021",
+        "deletedOn": null,
+        "urlId": "0a840669-81de-462a-a4a1-fd5a81affaad"
+    }
+]
